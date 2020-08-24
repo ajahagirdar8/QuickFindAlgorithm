@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E3212D12-1DAD-4008-B69E-A8B2B239396D}|Default">
+  <MonoDevelop.Ide.ItemProperties.QuickFind PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickFind/Program.cs">
+    <Files>
+      <File FileName="QuickFind/Program.cs" Line="22" Column="1" />
+      <File FileName="QuickFind/QuickFind.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuickFind" expanded="True">
+            <Node name="QuickFind" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
